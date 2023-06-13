@@ -1,6 +1,4 @@
-# a9-an-educational-app-BrittonJordan
-a9-an-educational-app-BrittonJordan created by GitHub Classroom
-
+# a9-an-educational-app
 Morse Academy is a simple application designed to help you learn Morse Code!
 
 References:
